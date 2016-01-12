@@ -1,11 +1,11 @@
-# Dillinger
+# Description
 
-This two scripts written for monitoring bgp sessions in zabbix. They by template discover every hour(by default) sessions, create items and triggers. 
-Very simple at now, but i can't find that in internet. So... use if you want.
+Two scripts and template for monitoring bgp sessions in zabbix. 
 
 Import template to your zabbix instalation.
 
 Place scripts in zabbix external scripts folder.
+
 
 # Files
 
