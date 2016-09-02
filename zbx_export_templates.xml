@@ -29,7 +29,7 @@
                     <type>10</type>
                     <snmp_community/>
                     <snmp_oid/>
-                    <key>bgpdiscovery_ros.py[{HOST.IP}]</key>
+                    <key>bgpdiscovery.py[{HOST.IP}]</key>
                     <delay>3600</delay>
                     <status>0</status>
                     <allowed_hosts/>
